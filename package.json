@@ -10,6 +10,7 @@
   "author": "Akshay pathak",
   "license": "ISC",
   "dependencies": {
+    "chat_room": "file:",
     "express": "^4.17.3",
     "moment": "^2.29.2",
     "socket.io": "^4.4.1"
